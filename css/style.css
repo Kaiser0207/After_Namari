@@ -65,6 +65,7 @@ a {
     -moz-transition: opacity 0.3s ease-out;
     -o-transition: opacity 0.3s ease-out;
     transition: opacity 0.3s ease-out;
+    color: #111111;
 }
 
 iframe {
@@ -770,7 +771,7 @@ h6 {
 .section-heading h3 {
     font-size: 14px;
     font-weight: bold;
-    color: #ccc;
+    color: #6e6e6e;
     letter-spacing: 2px;
     padding-bottom: 0;
 }
@@ -2326,10 +2327,7 @@ blockquote {
         height: 432px !important;
     }
 
-    /* 調整 h3 元素的顏色 */
-    h3 {
-        color: #121111; /* 更改為較深的顏色 */
-    }
+
 
     /* 調整 p.section-subtitle 元素的顏色 */
     p.section-subtitle {

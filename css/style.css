@@ -727,6 +727,7 @@ h2 {
 
 h3 {
     padding: 10px 0;
+    color: #000000;
 }
 
 h4 {
@@ -2325,6 +2326,31 @@ blockquote {
         height: 432px !important;
     }
 
+    /* 調整 h3 元素的顏色 */
+    h3 {
+        color: #333333; /* 更改為較深的顏色 */
+    }
+
+    /* 調整 p.section-subtitle 元素的顏色 */
+    p.section-subtitle {
+        color: #333333; /* 更改為較深的顏色 */
+    }
+
+    /* 調整 section#pricing.secondary-color.text-center.scrollto.clearfix 的顏色 */
+    section#pricing.secondary-color.text-center.scrollto.clearfix {
+        background-color: #ffffff; /* 更改為較淺的背景顏色 */
+        color: #000000; /* 更改為較深的文字顏色 */
+    }
+
+    /* 調整 p#copyright.col-2 的顏色 */
+    p#copyright.col-2 {
+        color: #000000; /* 更改為較深的顏色 */
+    }
+
+    /* 調整 a 元素的顏色 */
+    a {
+        color: #333333; /* 更改為對比度更高的顏色 */
+    }
 }
 
 
